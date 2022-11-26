@@ -1,0 +1,2 @@
+﻿kafka-python==2.0.2
+pip-chill==1.0.1
